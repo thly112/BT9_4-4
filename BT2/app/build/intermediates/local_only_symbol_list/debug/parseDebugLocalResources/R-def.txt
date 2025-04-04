@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable btnotconnect
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable tb1off
+drawable tb1on
+drawable tb2off
+drawable tb2on
+id btnDisc
+id btnTb1
+id btnTb2
+id btnTimthietbi
+id listTb
+id main
+id textV1
+id textView
+id textView2
+id textViewMAC
+layout activity_control
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BT2
+style Theme.BT2
+xml backup_rules
+xml data_extraction_rules
